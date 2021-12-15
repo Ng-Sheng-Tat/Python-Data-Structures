@@ -1,3 +1,3 @@
 ## Python Data Structures
-## Hosted by University of Michigan
-## Specialization Course 2
+## Specialization Course 2 - Python For Everybody
+## University of Michigan
